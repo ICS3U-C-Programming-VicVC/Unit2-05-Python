@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Created By: Victor V-C
 # Date: 09 29, 2026
-# This code demostrates an example of scoping in coding
+# This code demonstrates an example of scoping in coding
 
 global_variable = 15
 
@@ -13,7 +13,7 @@ def main():
 
 def local_scope():
 
-    # Demostrates local variables
+    # Demonstrates local variables
 
     global_variable = 1
     second_variable = 15
@@ -28,7 +28,7 @@ def local_scope():
 
 def global_scope():
 
-    # Demostrates global vairables
+    # Demonstrates global variables
 
     global global_variable
 
